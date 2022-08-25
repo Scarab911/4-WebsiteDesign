@@ -9,6 +9,17 @@
     margin: 0 300px;
 }
 
+.button {
+    width: fit-content;
+    height: fit-content;
+    background-color: #3882f6;
+    padding: 5px 30px;
+    border-radius: 7px;
+    font-weight: 900;
+    cursor: pointer;
+    line-height: 22px;
+}
+
 /*HERO STYLES*/
 .hero {
     background-color: #1f2937;
@@ -72,21 +83,7 @@ nav a {
     align-items: center;
 }
 
-.button {
-    width: fit-content;
-    height: fit-content;
-    background-color: #3882f6;
-    padding: 5px 30px;
-    border-radius: 7px;
-    font-weight: 900;
-    cursor: pointer;
-    line-height: 22px;
-}
-
-.ctaBtn {
-    color: #e5e7eb;
-    border: solid 2px #e5e7eb;
-}
+/*INFORMATION SECTION STYLES*/
 
 .section2 {
     display: flex;
@@ -117,6 +114,8 @@ nav a {
     border-radius: 7px;
 }
 
+/*QUOTE SECTION STYLE*/
+
 .section3 {
     background-color: #e5e7eb;
 }
@@ -134,6 +133,8 @@ nav a {
     font-size: 24px;
 }
 
+/*CALL TO ACTION SECTION*/
+
 .cta {
     display: flex;
     justify-content: space-between;
@@ -145,6 +146,13 @@ nav a {
     border-radius: 7px;
     color: #e5e7eb;
 }
+
+.ctaBtn {
+    color: #e5e7eb;
+    border: solid 2px #e5e7eb;
+}
+
+/*FOOTER STYLE*/
 
 .footer {
     background-color: #1f2937;
