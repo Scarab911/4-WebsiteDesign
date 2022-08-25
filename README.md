@@ -4,6 +4,8 @@ Hello my name is Paul'ius and this project is meant to show case how I completed
 
 Techniques used is **HTML** for layout and **CSS** for styling. Also you can find some media queries as my device viewport not so big 😀 and I always have problems with high res projects.
 
+Plus used a custom font **'Roboto'** from [google fonts](https://fonts.google.com/specimenTab?standard-styles)
+
 ### Website design provided by 'Brainnest' teacher:
 
 ---
